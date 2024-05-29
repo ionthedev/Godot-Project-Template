@@ -12,9 +12,9 @@ config_version=5
 
 config/name="DefaultTemplate"
 config/version="4.3"
-config/features=PackedStringArray("4.3", "C#", "Forward Plus")
+config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="C# Zombies"
+project/assembly_name="DefaultTemplate"
