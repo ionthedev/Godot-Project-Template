@@ -21,4 +21,4 @@ project/assembly_name="DefaultTemplate"
 
 [editor_plugins]
 
-enabled=PackedStringArray()
+enabled=PackedStringArray("res://addons/asset_dock/plugin.cfg")
