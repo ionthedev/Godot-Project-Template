@@ -2,3 +2,6 @@
 .godot/
 android/
 *.import
+editor/fonts/JetBrainsMono
+editor/fonts/roboto
+editor/fonts/RobotoMono
