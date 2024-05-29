@@ -1,0 +1,11 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://csr3opri36ypq"]
+
+[ext_resource type="Shader" path="res://shaders/meters-grid.gdshader" id="1_03b3o"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_03b3o")
+shader_parameter/lightColor = Color(0.493034, 0.282977, 0, 1)
+shader_parameter/darkColor = Color(0.921828, 0.549096, 0, 1)
+shader_parameter/borderColor = Color(0, 0, 0, 1)
+shader_parameter/borderWidth = 1000.0
