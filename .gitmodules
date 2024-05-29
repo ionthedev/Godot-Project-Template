@@ -14,3 +14,7 @@
 	path = editor/fonts/roboto
 	url = https://github.com/googlefonts/roboto.git
 	branch = main
+[submodule "Asset-Dock"]
+	path = Asset-Dock
+	url = https://github.com/Reetro/Asset-Dock.git
+	branch = main
