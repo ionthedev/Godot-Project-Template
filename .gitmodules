@@ -1,0 +1,16 @@
+[submodule "editor/themes/godot-minimal-theme"]
+	path = editor/themes/godot-minimal-theme
+	url = https://github.com/passivestar/godot-minimal-theme.git
+	branch = main
+[submodule "editor/fonts/JetBrainsMono"]
+	path = editor/fonts/JetBrainsMono
+	url = https://github.com/JetBrains/JetBrainsMono.git
+	branch = master
+[submodule "editor/fonts/RobotoMono"]
+	path = editor/fonts/RobotoMono
+	url = https://github.com/googlefonts/RobotoMono.git
+	branch = main
+[submodule "editor/fonts/roboto"]
+	path = editor/fonts/roboto
+	url = https://github.com/googlefonts/roboto.git
+	branch = main
