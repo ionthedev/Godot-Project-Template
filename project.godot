@@ -13,7 +13,8 @@ config_version=5
 config/name="DefaultTemplate"
 config/version="4.3"
 config/features=PackedStringArray("4.3", "Forward Plus")
-config/icon="res://icon.svg"
+boot_splash/image="res://editor/boot_splash.png"
+boot_splash/fullsize=false
 
 [dotnet]
 
@@ -21,4 +22,17 @@ project/assembly_name="DefaultTemplate"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/asset_dock/plugin.cfg")
+enabled=PackedStringArray()
+
+[file_customization]
+
+folder_colors={
+"res://editor/": "yellow",
+"res://materials/": "green",
+"res://mesh/": "gray",
+"res://prefabs/": "orange",
+"res://scenes/": "purple",
+"res://shaders/": "blue",
+"res://src/": "red",
+"res://textures/": "teal"
+}
